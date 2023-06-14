@@ -1,0 +1,11 @@
+C:\Users\AresJ\Desktop\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\AresJ\Desktop\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\AresJ\Desktop\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\AresJ\Desktop\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\AresJ\Desktop\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\AresJ\Desktop\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+C:\Users\AresJ\Desktop\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\AresJ\Desktop\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\AresJ\Desktop\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\AresJ\Desktop\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\AresJ\Desktop\Kalkulator\obj\Debug\Kalkulator.pdb
